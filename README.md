@@ -1,0 +1,2 @@
+# anyDoor
+node static server
